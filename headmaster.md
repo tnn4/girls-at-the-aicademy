@@ -1,6 +1,6 @@
 # Headmaster
 
-![Image_fx(204).jpeg](Image_fx(204).jpeg)
+![Image_fx(204).jpeg](assets/Image_fx(204).jpeg)
 
 "I assure you, this academy has little to do with tentacles and a lot to do with AI."
 
