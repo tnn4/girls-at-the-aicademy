@@ -191,7 +191,7 @@ Kuro: *crying*
 
 ---
 
-Because they not only have to deal with getting good grades. They also have to deal with fighting evil monsters!
+They not only have to deal with getting good grades. They also have to deal with fighting evil monsters!
 
 ![monster](assets/Image_fx(237).jpeg)
 
