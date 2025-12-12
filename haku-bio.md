@@ -15,6 +15,7 @@ If she went to Hogwarts she would be prefect no matter the House she got sorted 
 
 Loves:
 - Keeping things organized
+
 Hates:
 - Disorganization
 - Clutter

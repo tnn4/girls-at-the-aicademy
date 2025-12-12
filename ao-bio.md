@@ -16,6 +16,8 @@ She wants to be sorted into Ravenclaw if she went to Hogwarts.
 Loves:
 - Studying
 - Planning
+- Books
+
 Hates:
 - Being naive
 - Time constraints
