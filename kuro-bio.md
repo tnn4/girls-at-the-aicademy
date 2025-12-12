@@ -1,6 +1,6 @@
 # Kuro
 
-![w](Image_fx(157).jpeg)
+![w](assets/Image_fx(157).jpeg)
 "Power, that's all that matters here. And I'm going to make sure they know it"
 
 Haku is a black haired girl who is a student at The Academy.

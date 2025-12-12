@@ -1,6 +1,6 @@
 # Aka
 
-![u](Image_fx(168).jpeg)
+![u](assets/Image_fx(168).jpeg)
 "Time flies. You got to live in the moment."
 
 Haku is a tomboyish red haired girl at The Academy.

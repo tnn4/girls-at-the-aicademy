@@ -1,6 +1,6 @@
 # Haku
 
-![w](Image_fx(160).jpeg)
+![w](assets/Image_fx(160).jpeg)
 "Clubs, finances, grades. So much to do, but I'll organize it all."
 
 Haku is a white haired girl who is a student at The Academy.

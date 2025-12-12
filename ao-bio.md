@@ -1,6 +1,6 @@
 # Ao
 
-![u](Image_fx(155).jpeg)
+![u](assets/Image_fx(155).jpeg)
 "I need to study and review all the books I can."
 
 Haku is a bespectacled blue haired girl at The Academy.
