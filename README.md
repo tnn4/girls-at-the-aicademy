@@ -199,3 +199,4 @@ They not only have to deal with getting good grades. They also have to deal with
 
 "We can do this. With the power of [friendship](https://m.media-amazon.com/images/M/MV5BZjhkNzBmMDAtMTBiNy00NGIxLThlN2EtMTJlZDEzZjIzYWUyXkEyXkFqcGc@._V1_.jpg)."
 
+Meanwhile, at a [university in America](assets/Image_fx(275).jpeg)
